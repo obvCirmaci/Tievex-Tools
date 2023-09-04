@@ -5,6 +5,7 @@
 
 -  **To install the Upscaler**, simply run the installer which u can [download here](https://github.com/obvCirmaci/Tievex-Tools/blob/main/Upscaler/UpscalerInstaller.CMD), which will install Scoop, Ffmpeg (Added to Path) and the 
 upscaler itself.
+
   ![ezgif-5-972a000094](https://github.com/obvCirmaci/Tievex-Tools/assets/81503506/380eee65-bce0-4484-938a-93e9c18fd551)
 
 -  **To use the Upscaler**, right click your Video, hover over the "Send To" Button and click "TievexUpscaler{X}"
